@@ -12,7 +12,8 @@
 	"extensions": [
 		"rust-lang.rust-analyzer",
 		"vadimcn.vscode-lldb",
-		"mhutchie.git-graph"
+		"mhutchie.git-graph",
+		"hediet.vscode-drawio"
 	],
 	"settings": {
 		"[rust]": {
